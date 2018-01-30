@@ -1,2 +1,7 @@
-# RPi_Web_Interface
-Raspberry pi Camera module with web Interface.It Provides Video Surveillance with real time environment and can download image,save video,motion detection and many other feature can be performed with real time data.
+Web based interface for controlling the Raspberry Pi Camera, includes motion detection, time lapse, and image and video recording.
+Current version 6.4.14
+All information on this project can be found here: http://www.raspberrypi.org/forums/viewtopic.php?f=43&t=63276
+
+The wiki page can be found here:
+
+http://elinux.org/RPi-Cam-Web-Interface
